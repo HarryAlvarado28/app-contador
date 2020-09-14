@@ -1,4 +1,4 @@
-package com.example.contador
+package tech.cmdlabs.contador
 
 import io.flutter.embedding.android.FlutterActivity
 

@@ -1,2 +1,3 @@
-# app-contador
-Aplicación Móvil Para Contador
+
+# app-contador 🔢
+¿Qué es app-contador? Es una **aplicación móvil** para Contar. 📲 🔢
